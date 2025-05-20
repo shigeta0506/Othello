@@ -1,2 +1,3 @@
 D:\プログラムワークショップⅡ\Project2\x64\Debug\Project2.exe
 D:\プログラムワークショップⅡ\Project2 - コピー\x64\Debug\Project2.exe
+D:\Application Game\Othello\Project2 - コピー\x64\Debug\Project2.exe
